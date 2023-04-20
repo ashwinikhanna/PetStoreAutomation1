@@ -1,0 +1,22 @@
+{
+	"students": [
+	{
+		"id" : 1.
+		"name" : "john",
+		"location" : "Belarus",
+		"courses" : [ "java", "selenium"]
+	},
+	{
+		"id" : 2,
+		"name" : "Sundas",
+		"location" : "USA",
+		"courses" : [ "SQL", "Oracle"]
+	},
+{
+		"id" : 3,
+		"name" : "Alex",
+		"location" : "Turkey",
+		"courses" : [ "C++", "Java"]
+	},
+	]
+}
