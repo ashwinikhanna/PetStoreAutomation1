@@ -1,0 +1,40 @@
+[INFO ] 2023-04-18 21:50:02.698 [main] UserTests - ***** creating user ******
+[INFO ] 2023-04-18 21:50:05.464 [main] UserTests - ***** user is created ******
+[INFO ] 2023-04-18 21:50:05.485 [main] UserTests - ***** reading user info ******
+[INFO ] 2023-04-18 21:50:06.910 [main] UserTests - ***** user info displayed ******
+[INFO ] 2023-04-18 21:50:06.916 [main] UserTests - ***** updating user ******
+[INFO ] 2023-04-18 21:50:09.930 [main] UserTests - ***** user is updated ******
+[INFO ] 2023-04-18 21:50:09.939 [main] UserTests - ***** deleting user ******
+[INFO ] 2023-04-18 21:50:11.689 [main] UserTests - ***** user is deleted ******
+[INFO ] 2023-04-19 08:38:08.310 [main] UserTests - ***** creating user ******
+[INFO ] 2023-04-19 08:38:11.706 [main] UserTests - ***** user is created ******
+[INFO ] 2023-04-19 08:38:11.746 [main] UserTests - ***** reading user info ******
+[INFO ] 2023-04-19 08:38:13.085 [main] UserTests - ***** user info displayed ******
+[INFO ] 2023-04-19 08:38:13.090 [main] UserTests - ***** updating user ******
+[INFO ] 2023-04-19 08:38:15.741 [main] UserTests - ***** user is updated ******
+[INFO ] 2023-04-19 08:38:15.754 [main] UserTests - ***** deleting user ******
+[INFO ] 2023-04-19 08:38:17.113 [main] UserTests - ***** user is deleted ******
+[INFO ] 2023-04-19 13:19:00.556 [main] UserTests - ***** creating user ******
+[INFO ] 2023-04-19 13:19:01.988 [main] UserTests - ***** user is created ******
+[INFO ] 2023-04-19 13:19:01.989 [main] UserTests - ***** reading user info ******
+[INFO ] 2023-04-19 13:19:03.304 [main] UserTests - ***** user info displayed ******
+[INFO ] 2023-04-19 13:19:03.308 [main] UserTests - ***** updating user ******
+[INFO ] 2023-04-19 13:19:06.002 [main] UserTests - ***** user is updated ******
+[INFO ] 2023-04-19 13:19:06.005 [main] UserTests - ***** deleting user ******
+[INFO ] 2023-04-19 13:19:07.282 [main] UserTests - ***** user is deleted ******
+[INFO ] 2023-04-19 15:57:35.251 [main] UserTests - ***** creating user ******
+[INFO ] 2023-04-19 15:57:36.656 [main] UserTests - ***** user is created ******
+[INFO ] 2023-04-19 15:57:36.656 [main] UserTests - ***** reading user info ******
+[INFO ] 2023-04-19 15:57:38.039 [main] UserTests - ***** user info displayed ******
+[INFO ] 2023-04-19 15:57:38.041 [main] UserTests - ***** updating user ******
+[INFO ] 2023-04-19 15:57:40.712 [main] UserTests - ***** user is updated ******
+[INFO ] 2023-04-19 15:57:40.716 [main] UserTests - ***** deleting user ******
+[INFO ] 2023-04-19 15:57:41.998 [main] UserTests - ***** user is deleted ******
+[INFO ] 2023-04-20 13:58:53.922 [main] UserTests - ***** creating user ******
+[INFO ] 2023-04-20 13:58:55.839 [main] UserTests - ***** user is created ******
+[INFO ] 2023-04-20 13:58:55.842 [main] UserTests - ***** reading user info ******
+[INFO ] 2023-04-20 13:58:57.633 [main] UserTests - ***** user info displayed ******
+[INFO ] 2023-04-20 13:58:57.637 [main] UserTests - ***** updating user ******
+[INFO ] 2023-04-20 13:58:59.911 [main] UserTests - ***** user is updated ******
+[INFO ] 2023-04-20 13:58:59.913 [main] UserTests - ***** deleting user ******
+[INFO ] 2023-04-20 13:59:01.283 [main] UserTests - ***** user is deleted ******
